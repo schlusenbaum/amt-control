@@ -325,6 +325,9 @@ Dadurch wird vermieden, dass ein Befehl aufgrund einer unklaren Antwort unnötig
 
 ## Lizenz
 
-Für dieses Projekt ist derzeit keine Lizenz festgelegt.
+Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
 
-Ohne eine explizite Lizenz sollte nicht davon ausgegangen werden, dass Dritte den Code beliebig weiterverwenden, verändern oder weiterverbreiten dürfen.
+Copyright © 2026 Christian Richter.
+
+Die MIT-Lizenz erlaubt die Nutzung, Veränderung und Weiterverbreitung der
+Software unter den in der Datei LICENSE genannten Bedingungen.
