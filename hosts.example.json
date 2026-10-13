@@ -1,0 +1,14 @@
+{
+    "unraid": {
+        "host": "192.0.2.10",
+        "port": 16993,
+        "username": "admin",
+        "protocol": "https"
+    },
+    "m920x": {
+        "host": "192.0.2.12",
+        "port": 16992,
+        "username": "admin",
+        "protocol": "http"
+    }
+}

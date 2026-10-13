@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+amt.py.bak
+
+# Lokale AMT-Konfiguration
+hosts.json
